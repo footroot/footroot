@@ -12,6 +12,7 @@
  <p>🔭 I’m currently working on the Part 2: Practical task 2</p>
 </div>
 
+>>>>>>> 26b8417214c6cdd80809349405fea843b81f923b
 <!--
 **footroot/footroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
