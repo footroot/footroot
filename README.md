@@ -1,10 +1,14 @@
-
  <div>
  <h1> Hi there 👋</h1>
  <h2>This is my landing page</h2>
  <p>🔭 I’m currently working on the Part 2: Practical task 2</p>
  </div>
-
+<div>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="Cats of the day" src="https://www.istockphoto.com/photo/big-eyed-naughty-cat-looking-at-the-target-from-behind-the-marble-table-gm2040984869-562685816?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcat&utm_medium=affiliate&utm_source=unsplash&utm_term=cat%3A%3A%3A">
+</picture></div>
 <!--
 **footroot/footroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
