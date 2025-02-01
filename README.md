@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
  * {
   margin: 0;
  }
@@ -8,7 +8,7 @@
   left: 20px;
   display: flex;
  }
-</style>
+</style> -->
 <div>
  <h1> Hi there 👋</h1>
  <h2>This is my landing page</h2>
@@ -18,6 +18,7 @@
 <picture>
     <img alt="Cats of the day" src="https://i.natgeofe.com/n/4cebbf38-5df4-4ed0-864a-4ebeb64d33a4/NationalGeographic_1468962_square.jpg" width="200px" height="200px" >
 </picture>
+<span>this is the begining of the end</span>
 </div>
 
 
