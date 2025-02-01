@@ -1,3 +1,14 @@
+<style>
+ * {
+  margin: 0;
+ }
+
+ img {
+  top: 20px;
+  left: 20px;
+  display: flex;
+ }
+</style>
 <div>
  <h1> Hi there 👋</h1>
  <h2>This is my landing page</h2>
@@ -5,7 +16,7 @@
 </div>
 <div>
 <picture>
-    <img alt="Cats of the day" src="https://i.natgeofe.com/n/4cebbf38-5df4-4ed0-864a-4ebeb64d33a4/NationalGeographic_1468962_square.jpg">
+    <img alt="Cats of the day" src="https://i.natgeofe.com/n/4cebbf38-5df4-4ed0-864a-4ebeb64d33a4/NationalGeographic_1468962_square.jpg" width="200px" height="200px" >
 </picture>
 </div>
 
